@@ -1,0 +1,5 @@
+http://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame
+http://archive.ics.uci.edu/ml/datasets/Wine
+https://archive.ics.uci.edu/ml/datasets/letter+recognition
+https://archive.ics.uci.edu/ml/datasets/Poker+Hand
+https://archive.ics.uci.edu/ml/datasets/iris
